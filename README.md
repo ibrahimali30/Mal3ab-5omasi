@@ -20,10 +20,6 @@
 
 
 
-![screenshot_20190218-133352](https://user-images.githubusercontent.com/41558289/52949001-c62bc380-3383-11e9-8543-764653bb437b.png)
-
-![screenshot_20190218-133402](https://user-images.githubusercontent.com/41558289/52949002-c6c45a00-3383-11e9-8130-27e74f6c3f1f.png)
-
 ![screenshot_20190218-133410](https://user-images.githubusercontent.com/41558289/52949003-c6c45a00-3383-11e9-83d9-aa7e3d82487e.png)
 
 ![screenshot_20190218-133420](https://user-images.githubusercontent.com/41558289/52949005-c6c45a00-3383-11e9-820c-d6654c594198.png)
